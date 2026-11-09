@@ -41,7 +41,7 @@
         "wk:page":"Petit_Bel_Air"
     },
     "wof:country":"MU",
-    "wof:geomhash":"051ef7f559f666c88fe1161d37204954",
+    "wof:geomhash":"0464f2f2ff12a8b7e71b7380cd1fcc95",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -66,5 +66,5 @@
     57.69513000000001,
     -20.39986
 ],
-  "geometry": {"coordinates":[57.69513000000001,-20.39986],"type":"Point"}
+  "geometry": {"coordinates":[57.69513,-20.39986],"type":"Point"}
 }

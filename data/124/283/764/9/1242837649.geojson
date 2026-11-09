@@ -40,7 +40,7 @@
         "gn:id":1106819
     },
     "wof:country":"MU",
-    "wof:geomhash":"e1cc18e13a33e7463fc8ee8e5b3d833d",
+    "wof:geomhash":"b4f426909868bc4a114cc1b9faca66a9",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -65,5 +65,5 @@
     57.52028000000001,
     -20.15361
 ],
-  "geometry": {"coordinates":[57.52028000000001,-20.15361],"type":"Point"}
+  "geometry": {"coordinates":[57.52028,-20.15361],"type":"Point"}
 }

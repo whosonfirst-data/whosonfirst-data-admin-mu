@@ -55,7 +55,7 @@
         "wk:page":"Baie_aux_Hu%C3%AEtres"
     },
     "wof:country":"MU",
-    "wof:geomhash":"b35cbf201d30767ca5fc25d93597e359",
+    "wof:geomhash":"d85df012feb4595d6a310cd49df3474e",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -82,5 +82,5 @@
     63.40833000000001,
     -19.69444
 ],
-  "geometry": {"coordinates":[63.40833000000001,-19.69444],"type":"Point"}
+  "geometry": {"coordinates":[63.40833,-19.69444],"type":"Point"}
 }

@@ -38,7 +38,7 @@
         "gn:id":934401
     },
     "wof:country":"MU",
-    "wof:geomhash":"3cd3423ebbddf9f72fa9f82bdffad451",
+    "wof:geomhash":"215ca642f853698c59d8680447d85a08",
     "wof:hierarchy":[
         {
             "country_id":85632357,
@@ -61,5 +61,5 @@
     57.47833000000001,
     -20.31861
 ],
-  "geometry": {"coordinates":[57.47833000000001,-20.31861],"type":"Point"}
+  "geometry": {"coordinates":[57.47833,-20.31861],"type":"Point"}
 }
