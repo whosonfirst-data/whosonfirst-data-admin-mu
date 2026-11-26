@@ -1,0 +1,72 @@
+{
+  "id": 9895049030,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.50499,-20.22115,57.50499,-20.22115",
+    "geom:latitude":-20.22115,
+    "geom:longitude":57.50499,
+    "iso:country":"MU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12168290: name \"Camp Samy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12168290"
+        },
+        {
+            "citation":"GeoNames populated place 12168290: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12168290"
+        },
+        {
+            "citation":"GeoNames populated place 12168290: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12168290"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674953 (Moka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632357,
+        85674953,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12168290
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"39d1950132a6a5cb07f0443e81aed9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":9895049030,
+            "region_id":85674953
+        }
+    ],
+    "wof:id":9895049030,
+    "wof:lastmodified":1795735208,
+    "wof:name":"Camp Samy",
+    "wof:parent_id":85674953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.50499,
+    -20.22115,
+    57.50499,
+    -20.22115
+],
+  "geometry": {"coordinates":[57.50499,-20.22115],"type":"Point"}
+}

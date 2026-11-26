@@ -1,0 +1,72 @@
+{
+  "id": 9895049026,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.56267,-20.17288,57.56267,-20.17288",
+    "geom:latitude":-20.17288,
+    "geom:longitude":57.56267,
+    "iso:country":"MU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12168283: name \"Thomassin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12168283"
+        },
+        {
+            "citation":"GeoNames populated place 12168283: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12168283"
+        },
+        {
+            "citation":"GeoNames populated place 12168283: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12168283"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674957 (Pamplemousses), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632357,
+        85674957,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12168283
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"afd8863c9f8cc53c20c2c0d30500a305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":9895049026,
+            "region_id":85674957
+        }
+    ],
+    "wof:id":9895049026,
+    "wof:lastmodified":1795735208,
+    "wof:name":"Thomassin",
+    "wof:parent_id":85674957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.56267,
+    -20.17288,
+    57.56267,
+    -20.17288
+],
+  "geometry": {"coordinates":[57.56267,-20.17288],"type":"Point"}
+}
