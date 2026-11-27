@@ -1,0 +1,73 @@
+{
+  "id": 9895049029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.45952,-20.19324,57.45952,-20.19324",
+    "geom:latitude":-20.19324,
+    "geom:longitude":57.45952,
+    "gn:population":9178,
+    "iso:country":"MU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12168288: name \"Richelieu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12168288"
+        },
+        {
+            "citation":"GeoNames populated place 12168288: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12168288"
+        },
+        {
+            "citation":"GeoNames populated place 12168288: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12168288"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674983 (Rivi\u00e8re Noire), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632357,
+        85674983,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12168288
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"a04a1277df645d44fb9d2d1df45f97f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":9895049029,
+            "region_id":85674983
+        }
+    ],
+    "wof:id":9895049029,
+    "wof:lastmodified":1795735208,
+    "wof:name":"Richelieu",
+    "wof:parent_id":85674983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.45952,
+    -20.19324,
+    57.45952,
+    -20.19324
+],
+  "geometry": {"coordinates":[57.45952,-20.19324],"type":"Point"}
+}
