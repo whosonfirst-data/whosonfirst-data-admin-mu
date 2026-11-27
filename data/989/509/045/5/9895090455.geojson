@@ -1,0 +1,73 @@
+{
+  "id": 9895090455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.61795,-10.38803,56.61795,-10.38803",
+    "geom:latitude":-10.38803,
+    "geom:longitude":56.61795,
+    "gn:population":250,
+    "iso:country":"MU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12022106: name \"Vingt Cinq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12022106"
+        },
+        {
+            "citation":"GeoNames populated place 12022106: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12022106"
+        },
+        {
+            "citation":"GeoNames populated place 12022106: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12022106"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674925 (Agal\u00e9ga), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632357,
+        85674925,
+        102193527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12022106
+    },
+    "wof:country":"MU",
+    "wof:geomhash":"1425389987ab56a2450d12ddc9d97230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "locality_id":9895090455,
+            "region_id":85674925
+        }
+    ],
+    "wof:id":9895090455,
+    "wof:lastmodified":1795746220,
+    "wof:name":"Vingt Cinq",
+    "wof:parent_id":85674925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.61795,
+    -10.38803,
+    56.61795,
+    -10.38803
+],
+  "geometry": {"coordinates":[56.61795,-10.38803],"type":"Point"}
+}
